@@ -34,3 +34,5 @@ from wordcheck import wordcheck
 print(wordcheck(checkword="The Word you wanna Check" , apiToken="Your Gemini API Token"))
 ```
 
+## Note from the Original Developer
+Thank you for Using my Project , Feel free to use this in your project
